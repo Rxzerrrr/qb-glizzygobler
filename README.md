@@ -4,6 +4,8 @@ Note I got some of this code from qb-burgershot and B1ackBeard#1430. Hope you en
 
 ms-peds is required! (https://github.com/MiddleSkillz/ms-peds)
 
+This QBCore resource is inspired by (https://github.com/DrBlackBeard095/qb-burgershot)
+
 Preview Coming Soon!
 
 qb-smallresources -> config.lua
