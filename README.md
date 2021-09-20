@@ -2,6 +2,8 @@ Please add these when you want to use the resource or it will not work!
 
 Note I got some of this code from qb-burgershot and B1ackBeard#1430. Hope you enjoy this!
 
+Required interior was not made by me (https://www.gta5-mods.com/maps/mlo-legion-hotdog-stand)
+
 ms-peds is required! (https://github.com/MiddleSkillz/ms-peds)
 
 This resource is inspired by (https://github.com/DrBlackBeard095/qb-burgershot)
