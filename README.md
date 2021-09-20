@@ -1,5 +1,9 @@
 Please add these when you want to use the resource or it will not work!
 
+Note I got some of this code from qb-burgershot and B1ackBeard#1430. Hope you enjoy this!
+
+Preview ()
+
 qb-smallresources -> server -> consumables.lua
 ```
 QBCore.Functions.CreateUseableItem("hotdog1", function(source, item)
@@ -56,4 +60,22 @@ qb-core -> shared.lua
 			},
 		},
 	},
+```
+
+qb-target -> config.lua
+```
+    ["glizzygobler"] = {
+        models = {
+            "mp_m_execpa_01",
+        },
+        options = {
+            {  
+            event = "qb-glizzygobler:DutyB",
+            icon = "far fa-clipboard",
+            label = "Go On/Off Duty",
+            job = "glizzygobler",
+            },
+        },
+        distance = 4.0
+    })
 ```
