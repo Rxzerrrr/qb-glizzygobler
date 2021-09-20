@@ -2,6 +2,8 @@ Please add these when you want to use the resource or it will not work!
 
 Note I got some of this code from qb-burgershot and B1ackBeard#1430. Hope you enjoy this!
 
+ms-peds is required! (https://github.com/MiddleSkillz/ms-peds)
+
 Preview ()
 
 qb-smallresources -> server -> consumables.lua
@@ -78,4 +80,14 @@ qb-target -> config.lua
         },
         distance = 4.0
     })
+```
+
+ms-peds -> config.lua
+```
+	{
+		model = `mp_m_execpa_01`,
+		coords = vector4(39.61, -1005.55, 29.48, 69.66),
+		gender = 'male',
+		scenario = 'WORLD_HUMAN_CLIPBOARD'
+	},
 ```
