@@ -6,6 +6,12 @@ ms-peds is required! (https://github.com/MiddleSkillz/ms-peds)
 
 Preview Coming Soon!
 
+qb-smallresources -> config.lua
+```
+    ["hotdog1"] = math.random(35, 54),
+    ["hotdog2"] = math.random(35, 54),
+```
+
 qb-smallresources -> server -> consumables.lua
 ```
 QBCore.Functions.CreateUseableItem("hotdog1", function(source, item)
