@@ -26,3 +26,34 @@ qb-core -> shared.lua
 	["uncookedwienie"]               = {["name"] = "uncookedwienie",                ["label"] = "Uncooked Wienie",                	["weight"] = 15,        ["type"] = "item",      ["image"] = "uncookedwienie.png",               ["unique"] = false, 	["useable"] = false, 	        ["shouldClose"] = true,            ["combinable"] = nil,   		   ["description"] = "I'm uncooked please cook me!"},
 	["cookedwienie"]                 = {["name"] = "cookedwienie",                 	["label"] = "Cooked Wienie",                	["weight"] = 15,        ["type"] = "item",      ["image"] = "cookedwienie.png",                 ["unique"] = false, 	["useable"] = false, 	        ["shouldClose"] = true,            ["combinable"] = nil,   		   ["description"] = "I'm cooked no eating me without putting me in a bun ;)"},
 ```
+
+qb-core -> shared.lua
+```
+["glizzygobler"] = {
+		label = "GlizzyGobler Employee",
+		defaultDuty = true,
+		grades = {
+			['0'] = {
+				name = "Trainee",
+				payment = 150
+			},
+			['1'] = {
+				name = "Employee",
+				payment = 290
+			},
+			['2'] = {
+				name = "Burger Flipper",
+				payment = 315
+			},
+			['3'] = {
+				name = "Manager",
+				payment = 345
+			},
+			['4'] = {
+				name = "CEO",
+				isboss = true,
+				payment = 400
+			},
+		},
+	},
+```
