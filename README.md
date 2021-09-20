@@ -75,11 +75,11 @@ qb-target -> config.lua
             event = "qb-glizzygobler:DutyB",
             icon = "far fa-clipboard",
             label = "Go On/Off Duty",
-            job = "glizzygobler",
-            },
+            job = "glizzygobler"
+            }
         },
         distance = 4.0
-    })
+    },
 ```
 
 ms-peds -> config.lua
