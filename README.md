@@ -60,7 +60,7 @@ qb-core -> shared.lua
 				payment = 290
 			},
 			['2'] = {
-				name = "Burger Flipper",
+				name = "Glizzy Flipper",
 				payment = 315
 			},
 			['3'] = {
