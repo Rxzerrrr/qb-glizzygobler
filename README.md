@@ -2,15 +2,12 @@ Please add these when you want to use the resource or it will not work!
 
 Need Support? Join the Discord (https://discord.gg/xpB47JnKmX)
 
-Note I got some of this code from qb-burgershot and B1ackBeard#1430. Hope you enjoy this!
-
 Required interior was not made by me (https://www.gta5-mods.com/maps/mlo-legion-hotdog-stand)
 
 ms-peds is required! (https://github.com/MiddleSkillz/ms-peds)
 
-This resource is inspired by (https://github.com/DrBlackBeard095/qb-burgershot)
-
 Screenshots
+
 ![Screenshot 1](https://user-images.githubusercontent.com/73010960/134396186-fdca2cfc-457f-4322-8522-277a1b8c8520.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/73010960/134396191-05ad5ba4-0152-4e64-bcaa-9d82d5616fc6.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/73010960/134396196-415c22f1-9c7d-471e-9af3-5187982e0aff.png)
