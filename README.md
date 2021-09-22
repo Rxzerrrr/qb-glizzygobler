@@ -10,10 +10,15 @@ ms-peds is required! (https://github.com/MiddleSkillz/ms-peds)
 
 This resource is inspired by (https://github.com/DrBlackBeard095/qb-burgershot)
 
-#Screenshots
-
-
-
+Screenshots
+![Screenshot 1](https://user-images.githubusercontent.com/73010960/134396186-fdca2cfc-457f-4322-8522-277a1b8c8520.png)
+![Screenshot_2](https://user-images.githubusercontent.com/73010960/134396191-05ad5ba4-0152-4e64-bcaa-9d82d5616fc6.png)
+![Screenshot_3](https://user-images.githubusercontent.com/73010960/134396196-415c22f1-9c7d-471e-9af3-5187982e0aff.png)
+![Screenshot_4](https://user-images.githubusercontent.com/73010960/134396201-14335857-205b-4719-873d-de9e3bcd732f.png)
+![Screenshot_5](https://user-images.githubusercontent.com/73010960/134396210-b01728d8-38e7-45c1-96d2-cd74e51e5f69.png)
+![Screenshot_6](https://user-images.githubusercontent.com/73010960/134396217-0b5ee670-392b-4775-8470-3c64fec648b5.png)
+![Screenshot_7](https://user-images.githubusercontent.com/73010960/134396226-3e81fa75-db8c-4eb0-bb98-d318b38dc3a0.png)
+![Screenshot_8](https://user-images.githubusercontent.com/73010960/134396238-9604c7e9-fce3-4c7c-b494-b7a69cf3ddfb.png)
 
 qb-smallresources -> config.lua
 ```
