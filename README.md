@@ -1,10 +1,11 @@
 #This is a QBCore resource! Not ESX!
 
-- Need Support? Join the Discord (https://discord.gg/xpB47JnKmX)
-
-- Required interior was not made by me (https://www.gta5-mods.com/maps/mlo-legion-hotdog-stand)
-
-- ms-peds is required! (https://github.com/MiddleSkillz/ms-peds)
+- Need Support? Join the Discord here below for support or if you have any suggestions!
+- https://discord.gg/xpB47JnKmX
+- Required interior! 
+- https://www.gta5-mods.com/maps/mlo-legion-hotdog-stand
+- ms-peds is required! 
+- https://github.com/MiddleSkillz/ms-peds
 
 qb-smallresources -> config.lua
 ```
