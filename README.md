@@ -10,7 +10,10 @@ ms-peds is required! (https://github.com/MiddleSkillz/ms-peds)
 
 This resource is inspired by (https://github.com/DrBlackBeard095/qb-burgershot)
 
-Preview Coming Soon!
+#Screenshots
+
+
+
 
 qb-smallresources -> config.lua
 ```
