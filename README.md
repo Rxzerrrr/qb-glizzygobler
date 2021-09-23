@@ -1,4 +1,4 @@
-#This is a QBCore resource! Not ESX!
+This is a QBCore resource!
 
 - Need Support? Join the Discord here below for support or if you have any suggestions!
 - https://discord.gg/xpB47JnKmX
