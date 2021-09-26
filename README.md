@@ -7,6 +7,8 @@ This is a QBCore resource!
 - ms-peds is required! 
 - https://github.com/MiddleSkillz/ms-peds
 
+# Instructions
+
 qb-smallresources -> config.lua
 ```
     ["hotdog1"] = math.random(35, 54),
@@ -99,7 +101,7 @@ ms-peds -> config.lua
 	},
 ```
 
-Screenshots
+# Screenshots
 
 ![Screenshot 1](https://user-images.githubusercontent.com/73010960/134396186-fdca2cfc-457f-4322-8522-277a1b8c8520.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/73010960/134396191-05ad5ba4-0152-4e64-bcaa-9d82d5616fc6.png)
