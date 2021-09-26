@@ -14,6 +14,7 @@ qb-smallresources -> config.lua
     ["hotdog2"] = math.random(35, 54),
 ```
 
+
 qb-smallresources -> server -> consumables.lua
 ```
 QBCore.Functions.CreateUseableItem("hotdog1", function(source, item)
@@ -30,6 +31,7 @@ QBCore.Functions.CreateUseableItem("hotdog2", function(source, item)
 end)
 ```
 
+
 qb-core -> shared.lua
 ```
 	["hotdog1"]                		= {["name"] = "hotdog1",                 		["label"] = "HotDog w/ Ketchup",                ["weight"] = 50,        ["type"] = "item",      ["image"] = "hotdog1.png",              		    ["unique"] = false, 	["useable"] = true, 	        ["shouldClose"] = true,            ["combinable"] = nil,   		   ["description"] = "I AM EDIBLE... EXCUSE THE GRAMMER AND JUST EAT MEEE!"},
@@ -40,6 +42,7 @@ qb-core -> shared.lua
 	["uncookedwienie"]               	= {["name"] = "uncookedwienie",                ["label"] = "Uncooked Wienie",                	["weight"] = 15,        ["type"] = "item",      ["image"] = "uncookedwienie.png",               ["unique"] = false, 	["useable"] = false, 	        ["shouldClose"] = true,            ["combinable"] = nil,   		   ["description"] = "I'm uncooked please cook me!"},
 	["cookedwienie"]                 	= {["name"] = "cookedwienie",                 	["label"] = "Cooked Wienie",                	["weight"] = 15,        ["type"] = "item",      ["image"] = "cookedwienie.png",                 ["unique"] = false, 	["useable"] = false, 	        ["shouldClose"] = true,            ["combinable"] = nil,   		   ["description"] = "I'm cooked no eating me without putting me in a bun ;)"},
 ```
+
 
 qb-core -> shared.lua
 ```
@@ -72,6 +75,7 @@ qb-core -> shared.lua
 	},
 ```
 
+
 qb-target -> config.lua
 ```
     ["glizzygobler"] = {
@@ -90,6 +94,7 @@ qb-target -> config.lua
     },
 ```
 
+
 ms-peds -> config.lua
 ```
 	{
@@ -99,6 +104,7 @@ ms-peds -> config.lua
 		scenario = 'WORLD_HUMAN_CLIPBOARD'
 	},
 ```
+
 
 # Screenshots
 
