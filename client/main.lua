@@ -24,30 +24,9 @@ AddEventHandler("qb-glizzygobler:Tray1", function()
     TriggerEvent("inventory:client:SetCurrentStash", "glizzytray1")
     TriggerServerEvent("inventory:server:OpenInventory", "stash", "glizzytray1", {
         maxweight = 10000,
-        slots = 6,
+        slots = 4,
     })
 end)
-
-RegisterNetEvent("qb-glizzygobler:Tray2")
-AddEventHandler("qb-glizzygobler:Tray2", function()
-    TriggerEvent("inventory:client:SetCurrentStash", "glizzytray2")
-    TriggerServerEvent("inventory:server:OpenInventory", "stash", "glizzytray2", {
-        maxweight = 10000,
-        slots = 6,
-    })
-end)
-
-Citizen.CreateThread(function()
-    GlizzyGobler = AddBlipForCoord(-1197.32, -897.655, 13.995)
-    SetBlipSprite (GlizzyGobler, 106)
-    SetBlipDisplay(GlizzyGobler, 4)
-    SetBlipScale  (GlizzyGobler, 0.5)
-    SetBlipAsShortRange(GlizzyGobler, true)
-    SetBlipColour(GlizzyGobler, 75)
-    BeginTextCommandSetBlipName("STRING")
-    AddTextComponentSubstringPlayerName("GlizzyGobler")
-    EndTextCommandSetBlipName(GlizzyGobler)
-end) 
 
 RegisterNetEvent("qb-glizzygobler:DutyB")
 AddEventHandler("qb-glizzygobler:DutyB", function()
