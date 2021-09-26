@@ -4,7 +4,7 @@ Config.SQL = 'oxmysql' --- oxmysql or ghmattisql
 
 Config.Items = {
 label = "Shop",
-    slots = 1,
+    slots = 4,
     items = {
         [1] = {
             name = "hotdogbun",
