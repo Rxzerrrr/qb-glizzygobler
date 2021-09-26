@@ -1,11 +1,10 @@
 This is a QBCore resource!
 
-- Need Support? Join the Discord here below for support or if you have any suggestions!
-- https://discord.gg/xpB47JnKmX
-- Required interior! 
-- https://www.gta5-mods.com/maps/mlo-legion-hotdog-stand
-- ms-peds is required! 
-- https://github.com/MiddleSkillz/ms-peds
+- Need Support? Join the Discord here below for support or if you have any suggestions! https://discord.gg/xpB47JnKmX
+- Required interior! https://www.gta5-mods.com/maps/mlo-legion-hotdog-stand
+- ms-peds is required! https://github.com/MiddleSkillz/ms-peds
+- nh-context: https://github.com/PenumbraDevelopment/nh-context
+- nh-keyboard: https://github.com/iTzCrutchie/nh-keyboard
 
 # Instructions
 
@@ -44,7 +43,7 @@ qb-core -> shared.lua
 
 qb-core -> shared.lua
 ```
-["glizzygobler"] = {
+	["glizzygobler"] = {
 		label = "GlizzyGobler Employee",
 		defaultDuty = true,
 		grades = {
