@@ -3,7 +3,7 @@ Config = {}
 Config.SQL = 'oxmysql' --- oxmysql or ghmattisql
 
 Config.Items = {
-label = "Shop",
+label = "Ingredients",
     slots = 4,
     items = {
         [1] = {
